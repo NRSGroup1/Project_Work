@@ -1,3 +1,3 @@
 # Project_Work
 
-the official GitHub page for Group1!
+The official GitHub page for Group1!
